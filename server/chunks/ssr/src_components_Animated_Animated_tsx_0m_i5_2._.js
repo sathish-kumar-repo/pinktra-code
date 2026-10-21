@@ -1,0 +1,3 @@
+module.exports=[238486,a=>{"use strict";var b=a.i(187924),c=a.i(572131);a.s(["default",0,({children:a})=>((0,c.useEffect)(()=>{window.scrollTo(0,0)},[]),(0,b.jsx)(b.Fragment,{children:(0,b.jsxs)("div",{className:"area",children:[a,(0,b.jsxs)("ul",{className:"circles",children:[(0,b.jsx)("li",{}),(0,b.jsx)("li",{}),(0,b.jsx)("li",{}),(0,b.jsx)("li",{}),(0,b.jsx)("li",{}),(0,b.jsx)("li",{}),(0,b.jsx)("li",{}),(0,b.jsx)("li",{}),(0,b.jsx)("li",{}),(0,b.jsx)("li",{})]})]})}))])}];
+
+//# sourceMappingURL=src_components_Animated_Animated_tsx_0m_i5_2._.js.map

@@ -1,0 +1,17 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/about/page": "/about",
+  "/api/search/ai/route": "/api/search/ai",
+  "/contact/page": "/contact",
+  "/home/page": "/home",
+  "/learn/page": "/learn",
+  "/page": "/",
+  "/privacy_policy/page": "/privacy_policy",
+  "/products/page": "/products",
+  "/robots.txt/route": "/robots.txt",
+  "/services/page": "/services",
+  "/sitemap.xml/route": "/sitemap.xml",
+  "/terms_and_condition/page": "/terms_and_condition",
+  "/work/page": "/work"
+}

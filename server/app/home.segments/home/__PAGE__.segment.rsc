@@ -1,0 +1,21 @@
+1:"$Sreact.fragment"
+3:I[897367,["/_next/static/chunks/44060y3-lvewm.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+8:I[897367,["/_next/static/chunks/44060y3-lvewm.js"],"ViewportBoundary"]
+9:I[897367,["/_next/static/chunks/44060y3-lvewm.js"],"MetadataBoundary"]
+a:I[27201,["/_next/static/chunks/44060y3-lvewm.js"],"IconMark"]
+c:I[339756,["/_next/static/chunks/44060y3-lvewm.js"],"default"]
+d:I[837457,["/_next/static/chunks/44060y3-lvewm.js"],"default"]
+7:X
+f:X
+f:C
+0:{"buildId":"w4m0BANkv3APw_VBejrXa","data":[{"rsc":["$","$1","c",{"children":["$L2",null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f0b4d7"}],["$","meta","3",{"name":"color-scheme","content":"light dark"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Pinktra | A World of Knowledge"}],["$","meta","1",{"name":"description","content":"Pinktra is a learning and digital products platform. Explore guides and tutorials across technology, science, finance, health, and more, discover practical tools, and get custom digital products built for you."}],["$","meta","2",{"name":"application-name","content":"Pinktra"}],["$","meta","3",{"name":"author","content":"Sathish Kumar"}],["$","link","4",{"rel":"manifest","href":"/site.webmanifest"}],["$","meta","5",{"name":"keywords","content":"Pinktra, learning platform, tutorials, guides, knowledge domains, digital products, habit tracker, trading journal, web development services, app development, custom software"}],["$","meta","6",{"name":"google","content":"notranslate"}],["$","meta","7",{"name":"pinterest-rich-pin","content":"true"}],["$","link","8",{"rel":"canonical","href":"https://pinktra.com"}],["$","meta","9",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","10",{"name":"apple-mobile-web-app-title","content":"Pinktra"}],["$","meta","11",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","link","12",{"rel":"icon","href":"/favicon-32x32.png","sizes":"32x32","type":"image/png"}],["$","link","13",{"rel":"icon","href":"/favicon-16x16.png","sizes":"16x16","type":"image/png"}],["$","link","14",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","$La","15",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":"$@b","staleTime":"$7","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lc",null,{"parallelRouterKey":"children","template":["$","$Ld",null,{}]}]]}],"isPartial":"$@e","staleTime":"$7","varyParams":"$f"}],"isUpgradeableISRFallback":false,"a":"$@10","rootVaryParams":null,"needsRuntimeRequest":"$@11"}
+2:E{"digest":"NEXT_REDIRECT;replace;/;308;"}
+5:null
+11:true
+7:300
+7:C
+10:0
+b:"$undefined"
+e:"$undefined"
+6:"$undefined"
